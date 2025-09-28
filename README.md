@@ -145,6 +145,6 @@ F H <BR>
 
 <hr>
 <h3>Result:</h3>
-<hr>
+
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
