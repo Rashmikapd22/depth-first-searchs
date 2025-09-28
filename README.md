@@ -122,14 +122,14 @@ C G <BR>
 D F <BR>
 G F <BR>
 F H <BR>
-<hr>
+
 <h3>Sample Output</h3>
-<hr>
+
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
-<hr>
 
-<hr>
+
+
 <h3>Sample Input</h3>
 
 5 5 <BR>
@@ -140,10 +140,10 @@ F H <BR>
 2 4 <BR>
 
 <h3>Sample Output</h3>
-<hr>
+
 ['0', '1', '2', '3', '4']
 
-<hr>
+
 <h3>Result:</h3>
 
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
