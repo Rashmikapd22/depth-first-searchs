@@ -131,14 +131,14 @@ F H <BR>
 
 <hr>
 <h3>Sample Input</h3>
-<hr>
+
 5 5 <BR>
 0 1 <BR>
 0 2 <BR>
 0 3 <BR>
 2 3 <BR>
 2 4 <BR>
-<hr>
+
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
